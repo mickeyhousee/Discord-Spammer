@@ -22,4 +22,4 @@ pip install requests
 6. All set!
 
 ## Legal Notice
-This is illegal if you use this without the consent of the owners (in this case, Discord). I am not accountable for anything you get into, this was just a speedrun to demonstrate how spammers work. This is 100% educational, please do not misuse this tool.
+This is illegal if you use this without the consent of the owners (in this case, the Discord team). I am not accountable for anything you get into, this was just a speedrun to demonstrate how spammers work. This is 100% educational, please do not misuse this tool.
